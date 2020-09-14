@@ -1,6 +1,6 @@
 # Google-Book-Search
 
 Link to 
-[Heroku](https://googlebooksearchdeg.herokuapp.com/)
+[Heroku](https://gentle-thicket-68964.herokuapp.com/)
 and
-[GitHub](https://github.com/DEG18/Google-Book-Search)
+[GitHub](https://github.com/umar1425/Google-Book-Search)
